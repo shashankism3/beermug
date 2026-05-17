@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Check the latest Amrit Bharat Express train routes, schedules, timetables, and stops. Find fast, pocket-friendly amrit bharat train routes across India instantly.">
+  
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-E2PKHR6HYJ"></script>
   <script>
@@ -12,6 +14,7 @@
 
     gtag('config', 'G-FS49G0BF3Z');
   </script>
+  
   <title>Amrit Bharat Express</title>
   <link rel="icon" href="images/amrit-bharat-express-favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="css/style-main.css">
@@ -29,102 +32,20 @@
   </main>
 
   <div class="container">
-    <div class="grid">
-	  
-	  <a href="trains/14663-new-jalpaiguri-amritsar-amrit-bharat-express.html">
-	  <div class="card">
-	    <h3>14663</h3>
-		<h4>New Jalpaiguri - Amritsar Amrit Bharat Express</h4>	
-        <p>Inaugurated on: 14 May 2026</p>		
-	  </div>
-	  </a>
-	  
-	  <a href="#">
-	  <div class="card">
-	    <h3>14664</h3>
-		<h4>Amritsar - New Jalpaiguri Amrit Bharat Express</h4>	
-        <p>Inaugurated on: 14 May 2026</p>		
-	  </div>
-	  </a>
-	  
-	  
-	  
-	  <a href="#">
-      <div class="card">
-	    <h3>16108</h3>
-		<h4>Santragachi - Tambaram Amrit Bharat Express Amrit Bharat Express</h4>
-		<p>Inaugurated on: 18 January 2026</p>
-		
-      </div>
-	  </a>
-	  
-	  <a href="#">
-      <div class="card">
-	    <h3>11015</h3>
-		<h4>Mumbai LTT - Saharsa Amrit Bharat Express (PT)</h4>
-		<p>Inaugurated on: 24 April 2025</p>		
-      </div>
-	  </a>
-	  
-	  <a href="#">
-      <div class="card">
-	    <h3>11016</h3>
-		<h4>Saharsa - Mumbai LTT Amrit Bharat Express (PT)</h4>
-		<p>Inaugurated on: 24 April 2025</p>		
-      </div>
-	  </a>
-	
-	  <a href="#">
-      <div class="card">
-	    
-        <h3>13433</h3>
-		<h4>SMVT Bengaluru - Malda Town Amrit Bharat Express</h4>
-		<p>Inaugurated on: 30 December 2023</p>	
-		
-      </div>
-	  </a>
-	  
-	  <a href="#">
-      <div class="card">
-	    
-        <h3>13434</h3>
-		<h4>SMVT Bengaluru - Malda Town Amrit Bharat Express</h4>
-		<p>Inaugurated on: 30 December 2023</p>	
-		
-      </div>
-	  </a>
-	  
-	  
-	  
-	 
-	  
-	  <a href="#">
-      <div class="card">
-	    
-        <h3>11016</h3>
-		<p>Saharsa - Mumbai LTT Amrit Bharat Express (PT)</p>
-		
-      </div>
-	  </a>
-	  
-	  <a href="#">
-      <div class="card">
-	    
-        <h3>11015</h3>
-		<p>Mumbai LTT - Saharsa Amrit Bharat Express</p>
-		
-      </div>
-	  </a>
-	  
-      
+  	<!-- This is our empty target container. JS will insert all cards here! -->
+    <div class="grid" id="trains-grid"></div>
 
-     
-    </div>
+	    
+  
   </div>
 
-  <footer>
-    &copy; 2026 AmritBharatExpress.com. All rights reserved.
+  <footer id="global-footer">
+      <!-- JavaScript will inject footer.html contents right here -->
   </footer>
+  
+  <!-- LINK YOUR JS FILE HERE -->
+  <script src="js/trains-data.js"></script>
+  <script src="js/footer-loader.js"></script>
 
 </body>
 </html>
