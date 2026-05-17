@@ -13,10 +13,64 @@ const amritBharatTrains = [
         inauguration: "14 May 2026",
         link: "trains/14664-amritsar-new-jalpaiguri-amrit-bharat-express.html"
     },
+	 {
+        number: "16107",
+        name: "Tambaram - Santragachi Amrit Bharat Express",
+        inauguration: "18 January 2026",
+        link: "#"
+    },
     {
         number: "16108",
         name: "Santragachi - Tambaram Amrit Bharat Express",
         inauguration: "18 January 2026",
+        link: "#"
+    },
+	{
+        number: "15949",
+        name: "Dibrugarh – Gomti Nagar Amrit Bharat Express",
+        inauguration: "18 January 2026",
+        link: "#"
+    },
+	{
+        number: "15950",
+        name: "Gomti Nagar – Dibrugarh Amrit Bharat Express",
+        inauguration: "18 January 2026",
+        link: "#"
+    },
+	{
+        number: "20603",
+        name: "New Jalpaiguri - Nagercoil Amrit Bharat Express",
+        inauguration: "17 January 2026",
+        link: "#"
+    },
+	{
+        number: "20604",
+        name: "Nagercoil - New Jalpaiguri Bharat Express",
+        inauguration: "17 January 2026",
+        link: "#"
+    },
+	{
+        number: "20609",
+        name: "New Jalpaiguri - Tiruchchirappalli Amrit Bharat Express",
+        inauguration: "17 January 2026",
+        link: "#"
+    },
+	{
+        number: "20610",
+        name: "Tiruchchirappalli - New Jalpaiguri Amrit Bharat Express",
+        inauguration: "17 January 2026",
+        link: "#"
+    },
+	{
+        number: "16597",
+        name: "SMVT Bengaluru – Alipurduar Amrit Bharat Express",
+        inauguration: "17 January 2026",
+        link: "#"
+    },
+	{
+        number: "16598",
+        name: "Alipurduar - SMVT Bengaluru Amrit Bharat Express",
+        inauguration: "17 January 2026",
         link: "#"
     },
     {
@@ -39,12 +93,6 @@ const amritBharatTrains = [
     },
     {
         number: "13434",
-        name: "Malda Town - SMVT Bengaluru Amrit Bharat Express",
-        inauguration: "30 December 2023",
-        link: "#"
-    },
-	 {
-        number: "13436",
         name: "Malda Town - SMVT Bengaluru Amrit Bharat Express",
         inauguration: "30 December 2023",
         link: "#"
