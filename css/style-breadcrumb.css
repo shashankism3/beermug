@@ -1,0 +1,46 @@
+main { 
+ 
+  width:100%;  
+  padding: 0.5 rem;
+}
+	
+.breadcrumb {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+  background-color: #f3f4f6;
+  padding: 3px 20px;
+  border-radius: 10px;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  max-width: 100%;
+}
+
+.breadcrumb a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.breadcrumb a:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+
+@media (max-width: 800px) {
+  .breadcrumb {
+    font-size: 0.85rem;
+    padding: 8px 12px;
+    justify-content: center;
+  }
+
+  .breadcrumb a {
+    padding: 3px 6px;
+  }
+}

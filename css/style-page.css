@@ -1,0 +1,90 @@
+ :root {
+      --primary-color: #00aaff;
+      --bg-color: #f9fafc;     
+      --text-color: #222;
+      
+    }
+
+html, body {
+      height: 100%;
+      margin: 0;
+    }
+	
+body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+	
+	  }
+
+header {
+      background-color: var(--primary-color);      
+	  padding-left:20px;
+	  padding-top:5px;
+	  align-items: center;
+	  }
+	  
+h2 {
+      font-size: 2rem;
+      margin: 30px 0 20px;
+      color: #005577;
+    }	
+	
+a {		
+      text-decoration: none;
+      color: ;
+    }
+	
+
+footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+      color: #888;
+      background-color: #f1f1f1;
+      border-top: 1px solid #ddd;
+    }
+
+.row {
+	  justify-content: center;	  
+	  display:flex;	
+	  flex-direction: row;
+	  overflow: auto;
+}
+
+
+.leftcolumn {
+	float: left;
+	max-width: 800px;
+	width:100%;
+	padding: 10px;
+	background-color: #f1f1f1;
+}
+
+.rightcolumn {
+	float:left;
+	background-color: #f1f1f1;
+	max-width: 320px;
+	width:100%;
+	padding: 10px;
+}
+
+
+
+@media screen and (max-width: 1080px) {
+      .leftcolumn {
+        width: 100%;
+		padding: 10px;
+      }
+	  
+	  .row {
+		  flex-direction: column;
+		  align-items: center;
+	  }
+	  
+	  .rightcolumn {		
+        width: 100%;		
+		padding: 10px;
+		
+      }
+}
