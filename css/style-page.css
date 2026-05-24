@@ -119,20 +119,20 @@ tbody tr:hover {
 
 @media screen and (max-width: 1080px) {
       .leftcolumn {
-        width: 100%;
+        width: 95%;
+		border: 1px solid #005577;
 		
       }
 	  
+	  	  
 	  .row {
 		  flex-direction: column;
 		  align-items: center;
-		  padding: 0px 10px;
+		  padding: 0px 5px;
 	  }
 	  
 	  .rightcolumn {		
-        width: 100%;
-		
-		padding: 10px;
-		
+        width: 100%;		
+		padding: 10px;		
       }
 }
