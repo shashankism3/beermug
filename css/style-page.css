@@ -70,6 +70,52 @@ footer {
 }
 
 
+.table-container{
+    overflow-x:auto;
+	background:#fff;
+    border-radius:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.1);
+}
+	
+#coachposition {
+    width:35%;
+    border-collapse:collapse;
+    min-width:250px;
+}
+
+#timetable {
+    width:100%;
+    border-collapse:collapse;
+    min-width:650px;
+}
+
+th, td {
+    border:1px solid #d3d3d3;
+    padding:0px;
+    text-align:center;
+    white-space:nowrap;
+}
+
+/* First line highlighted */
+#timetable thead tr {
+    background:#2c3e50;
+    color:white;
+    font-weight:bold;
+}
+
+    /* Alternate row colors */
+#timetable tbody tr:nth-child(odd){
+        background:#ffffff;
+}
+
+tbody tr:nth-child(even){
+        background:#f2f7ff;
+}
+
+tbody tr:hover {
+        background:#dfefff;
+}
+
 
 @media screen and (max-width: 1080px) {
       .leftcolumn {

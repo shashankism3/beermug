@@ -20,15 +20,26 @@
 
 <url>
   <loc>https://amritbharatexpress.com/trains/14663-new-jalpaiguri-amritsar-amrit-bharat-express.html</loc>
-  <lastmod>2026-05-17T18:41:03+00:00</lastmod>
+  <lastmod>2026-05-24T18:41:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
 <url>
   <loc>https://amritbharatexpress.com/trains/14664-amritsar-new-jalpaiguri-amrit-bharat-express.html</loc>
-  <lastmod>2026-05-17T18:41:03+00:00</lastmod>
+  <lastmod>2026-05-24T18:41:03+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
+<url>
+  <loc>https://amritbharatexpress.com/trains/22111-mumbai-lokmanya-tilak-terminus-ayodhya-cantt-amrit-bharat-express.html</loc>
+  <lastmod>2026-05-24T18:41:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://amritbharatexpress.com/trains/22112-ayodhya-cantt-mumbai-lokmanya-tilak-terminus-amrit-bharat-express.html</loc>
+  <lastmod>2026-05-24T18:41:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
