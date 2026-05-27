@@ -73,9 +73,9 @@ const amritBharatTrains = [
     },
     {
         number: "16357",
-        name: "Nagercoil – Cherlapalli Amrit Bharat Express",
+        name: "Nagercoil – Charlapalli Amrit Bharat Express",
         inauguration: "11 March 2026",
-        link: "trains/16357-nagercoil-cherlapalli-amrit-bharat-express.html",
+        link: "trains/16357-nagercoil-charlapalli-amrit-bharat-express.html",
         stations: "tirunelveli, madurai, dindigul, tiruchchirappalli, jolarpettai, katpadi, tirupati, nellore, ongole, vijayawada, tenali, guntur, nalgonda, hyderabad"
     },
     {
