@@ -120,6 +120,13 @@ const amritBharatTrains = [
         link: "trains/16329-nagercoil-junction-mangaluru-junction-amrit-bharat-express.html",
         stations: "trivandrum, kollam, kottayam, ernakulam, thrissur, shoranur, kozhikode, kannur, kasaragod"
     },
+	{
+        number: "16330",
+        name: "Mangaluru Junction – Nagercoil Junction Amrit Bharat Express",
+        inauguration: "23 January 2026",
+        link: "trains/16330-mangaluru-junction-nagercoil-junction-amrit-bharat-express.html",
+        stations: "kasaragod, kannur, kozhikode, shoranur, thrissur, ernakulam, kottayam, kollam, trivandrum"
+    },
     {
         number: "17041",
         name: "Charlapalli – Thiruvananthapuram North Amrit Bharat Express",
@@ -133,13 +140,6 @@ const amritBharatTrains = [
         inauguration: "23 January 2026",
         link: "trains/17042-thiruvananthapuram-north-charlapalli-amrit-bharat-express.html",
         stations: "trivandrum, kollam, kottayam, ernakulam, thrissur, palakkad, coimbatore, erode, salem, jolarpettai, katpadi, tirupati, nellore, guntur, nadikude, hyderabad"
-    },
-    {
-        number: "16330",
-        name: "Mangaluru Junction – Nagercoil Junction Amrit Bharat Express",
-        inauguration: "23 January 2026",
-        link: "trains/16330-mangaluru-junction-nagercoil-junction-amrit-bharat-express.html",
-        stations: "kasaragod, kannur, kozhikode, shoranur, thrissur, ernakulam, kottayam, kollam, trivandrum"
     },
     {
         number: "16121",
