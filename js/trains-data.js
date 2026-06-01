@@ -497,7 +497,7 @@ function displayTrains(trainsList) {
                 <div class="card">
                     <h3>${train.number}</h3>
                     <h4>${train.name}</h4>  
-                    <p>Inaugurated on: ${train.inauguration}</p>    
+                    <p>Inauguration Date: ${train.inauguration}</p>    
                 </div>
             </a>
         `;
