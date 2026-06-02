@@ -143,30 +143,31 @@ const amritBharatTrains = [
     },
     {
         number: "16121",
-        name: "Thiruvananthapuram Central - Tambaram Amrit Bharat Express",
+		name: "Tambaram – Thiruvananthapuram Central Amrit Bharat Express",
         inauguration: "23 January 2026",
-        link: "trains/16121-thiruvananthapuram-central-tambaram-amrit-bharat-express.html",
-        stations: "trivandrum, kollam, kottayam, ernakulam, thrissur, palakkad, coimbatore, erode, salem, tiruchchirappalli, villupuram, chennai"
+        link: "trains/16121-tambaram-thiruvananthapuram-central-amrit-bharat-express.html",
+        stations: "chennai, villupuram, tiruchchirappalli, salem, erode, coimbatore, palakkad, thrissur, ernakulam, kottayam, kollam, trivandrum"
+        
     },
     {
         number: "16122",
-        name: "Tambaram – Thiruvananthapuram Central Amrit Bharat Express",
+        name: "Thiruvananthapuram Central - Tambaram Amrit Bharat Express",
         inauguration: "23 January 2026",
-        link: "trains/16122-tambaram-thiruvananthapuram-central-amrit-bharat-express.html",
-        stations: "chennai, villupuram, tiruchchirappalli, salem, erode, coimbatore, palakkad, thrissur, ernakulam, kottayam, kollam, trivandrum"
+        link: "trains/16122-thiruvananthapuram-central-tambaram-amrit-bharat-express.html",
+        stations: "trivandrum, kollam, kottayam, ernakulam, thrissur, palakkad, coimbatore, erode, salem, tiruchchirappalli, villupuram, chennai"
     },
     {
         number: "13065",
         name: "Howrah – Anand Vihar Amrit Bharat Express",
         inauguration: "18 January 2026",
-        link: "trains/13065-howrah-anand-vihar-amrit-bharat-express.html",
+        link: "trains/13065-howrah-anand-vihar-terminal-amrit-bharat-express.html",
         stations: "kolkata, barddhaman, durgapur, asansol, dhanbad, gaya, pandit deen dayal upadhyaya, prayagraj, kanpur, delhi"
     },
     {
         number: "13066",
         name: "Anand Vihar - Howrah Amrit Bharat Express",
         inauguration: "18 January 2026",
-        link: "trains/13066-anand-vihar-howrah-amrit-bharat-express.html",
+        link: "trains/13066-anand-vihar-terminal-howrah-amrit-bharat-express.html",
         stations: "delhi, kanpur, prayagraj, pandit deen dayal upadhyaya, gaya, dhanbad, asansol, durgapur, barddhaman, kolkata"
     },
     {
