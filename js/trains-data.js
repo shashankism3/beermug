@@ -158,14 +158,14 @@ const amritBharatTrains = [
     },
     {
         number: "13065",
-        name: "Howrah – Anand Vihar Amrit Bharat Express",
+        name: "Howrah – Anand Vihar Terminal Amrit Bharat Express",
         inauguration: "18 January 2026",
         link: "trains/13065-howrah-anand-vihar-terminal-amrit-bharat-express.html",
         stations: "kolkata, barddhaman, durgapur, asansol, dhanbad, gaya, pandit deen dayal upadhyaya, prayagraj, kanpur, delhi"
     },
     {
         number: "13066",
-        name: "Anand Vihar - Howrah Amrit Bharat Express",
+        name: "Anand Vihar Terminal - Howrah Amrit Bharat Express",
         inauguration: "18 January 2026",
         link: "trains/13066-anand-vihar-terminal-howrah-amrit-bharat-express.html",
         stations: "delhi, kanpur, prayagraj, pandit deen dayal upadhyaya, gaya, dhanbad, asansol, durgapur, barddhaman, kolkata"
@@ -468,14 +468,14 @@ const amritBharatTrains = [
         number: "15557",
         name: "Darbhanga - Anand Vihar Amrit Bharat Express",
         inauguration: "30 December 2023",
-        link: "trains/15557-darbhanga-anand-vihar-amrit-bharat-express.html",
+        link: "trains/15557-darbhanga-anand-vihar-terminal-amrit-bharat-express.html",
         stations: "kamtaul, janakpur road, sitamarhi, bairgania, raxaul, narkatiaganj, bagaha, gorakhpur, basti, gonda, lucknow, kanpur, delhi"
     },
     {
         number: "15558",
         name: "Anand Vihar - Darbhanga Amrit Bharat Express",
         inauguration: "30 December 2023",
-        link: "trains/15558-anand-vihar-darbhanga-amrit-bharat-express.html",
+        link: "trains/15558-anand-vihar-terminal-darbhanga-amrit-bharat-express.html",
         stations: "delhi, kanpur, lucknow, gonda, basti, gorakhpur, bagaha, narkatiaganj, raxaul, bairgania, sitamarhi, janakpur road, kamtaul"
     }
 ];
