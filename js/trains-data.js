@@ -438,16 +438,16 @@ const amritBharatTrains = [
     },
     {
         number: "11015",
-        name: "Mumbai LTT - Saharsa Amrit Bharat Express (PT)",
+        name: "Mumbai LTT - Saharsa Amrit Bharat Express",
         inauguration: "24 April 2025",
-        link: "trains/11015-mumbai-ltt-saharsa-amrit-bharat-express-pt.html",
+        link: "trains/11015-mumbai-ltt-saharsa-amrit-bharat-express.html",
         stations: "thane, kalyan, nasik, bhusaval, itarsi, jabalpur, satna, prayagraj, deen dayal upadhyaya, patna, barauni, khagaria"
     },
     {
         number: "11016",
-        name: "Saharsa - Mumbai LTT Amrit Bharat Express (PT)",
+        name: "Saharsa - Mumbai LTT Amrit Bharat Express",
         inauguration: "24 April 2025",
-        link: "trains/11016-saharsa-mumbai-ltt-amrit-bharat-express-pt.html",
+        link: "trains/11016-saharsa-mumbai-ltt-amrit-bharat-express.html",
         stations: "khagaria, barauni, patna, deen dayal upadhyaya, prayagraj, satna, jabalpur, itarsi, bhusaval, nasik, kalyan, thane"
     },
     {
