@@ -2,6 +2,20 @@
 
 const amritBharatTrains = [
     {
+        number: "21905",
+        name: "Ahmedabad - Patna Amrit Bharat Express",
+        inauguration: "To be started",
+        link: "trains/21905-ahmedabad-patna-amrit-bharat-express.html",
+        stations: "ahmedabad, bayana, patna"
+    },
+	{
+        number: "21906",
+        name: "Patna - Ahmedabad Amrit Bharat Express",
+        inauguration: "To be started",
+        link: "trains/21906-patna-ahmedabad-amrit-bharat-express.html",
+        stations: "patna, bayana, ahmedabad"
+    },
+    {
         number: "14663",
         name: "New Jalpaiguri - Amritsar Amrit Bharat Express",
         inauguration: "14 May 2026",
