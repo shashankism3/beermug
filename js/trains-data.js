@@ -1,6 +1,8 @@
 // js/trains-data.js
 
 const amritBharatTrains = [
+/*
+
     {
         number: "21905",
         name: "Ahmedabad - Patna Amrit Bharat Express",
@@ -15,6 +17,8 @@ const amritBharatTrains = [
         link: "trains/21906-patna-ahmedabad-amrit-bharat-express.html",
         stations: "patna, bayana, ahmedabad"
     },
+*/	
+	
     {
         number: "14663",
         name: "New Jalpaiguri - Amritsar Amrit Bharat Express",
