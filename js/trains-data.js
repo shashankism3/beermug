@@ -184,7 +184,9 @@ const amritBharatTrains = [
         link: "trains/13066-anand-vihar-terminal-howrah-amrit-bharat-express.html",
         stations: "delhi, kanpur, prayagraj, pandit deen dayal upadhyaya, gaya, dhanbad, asansol, durgapur, barddhaman, kolkata"
     },
-    {
+/* 
+
+   {
         number: "15949",
         name: "Dibrugarh – Gomti Nagar Amrit Bharat Express",
         inauguration: "18 January 2026",
@@ -436,6 +438,8 @@ const amritBharatTrains = [
         link: "trains/15568-anand-vihar-terminal-bapudham-motihari-amrit-bharat-express.html",
         stations: "delhi, ghaziabad, moradabad, bareilly, sitapur, gonda, basti, gorakhpur, bagaha, narkatiaganj, bettiah, sagauli"
     },
+*/	
+	
     {
         number: "22361",
         name: "Rajendra Nagar Terminal – New Delhi Amrit Bharat Express",
