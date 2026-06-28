@@ -188,9 +188,7 @@ const amritBharatTrains = [
         link: "trains/13066-anand-vihar-terminal-howrah-amrit-bharat-express.html",
         stations: "delhi, kanpur, prayagraj, pandit deen dayal upadhyaya, gaya, dhanbad, asansol, durgapur, barddhaman, kolkata"
     },
-/* 
-
-   {
+    {
         number: "15949",
         name: "Dibrugarh – Gomti Nagar Amrit Bharat Express",
         inauguration: "18 January 2026",
@@ -218,6 +216,8 @@ const amritBharatTrains = [
         link: "trains/15672-rohtak-kamakhya-amrit-bharat-express.html",
         stations: "haryana, delhi, moradabad, lucknow, varanasi, deen dayal upadhyaya, patna, malda town, new jalpaiguri, guwahati"
     },
+	
+/*		
     {
         number: "16107",
         name: "Tambaram - Santragachi Amrit Bharat Express",
@@ -311,9 +311,9 @@ const amritBharatTrains = [
     },
     {
         number: "15294",
-        name: "Muzaffarpur – Charlapalli Amrit Bharat Express",
+        name: "Charlapalli - Muzaffarpur Amrit Bharat Express",
         inauguration: "29 September 2025",
-        link: "trains/15294-muzaffarpur-charlapalli-amrit-bharat-express.html",
+        link: "trains/15294-charlapalli-muzaffarpur-amrit-bharat-express.html",
         stations: "hyderabad, kazipet, balharshah, nagpur, itarsi, jabalpur, satna, prayagraj, deen dayal upadhyaya, buxar, ara, patna, hajipur"
     },
     {
