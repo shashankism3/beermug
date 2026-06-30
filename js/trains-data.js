@@ -215,9 +215,7 @@ const amritBharatTrains = [
         inauguration: "18 January 2026",
         link: "trains/15672-rohtak-kamakhya-amrit-bharat-express.html",
         stations: "haryana, delhi, moradabad, lucknow, varanasi, deen dayal upadhyaya, patna, malda town, new jalpaiguri, guwahati"
-    },
-	
-/*		
+    },		
     {
         number: "16107",
         name: "Tambaram - Santragachi Amrit Bharat Express",
@@ -231,7 +229,7 @@ const amritBharatTrains = [
         inauguration: "18 January 2026",
         link: "trains/16108-santragachi-tambaram-amrit-bharat-express.html",
         stations: "kolkata, kharagpur, cuttack, bhubaneswar, visakhapatnam, vijayawada, ongole, nellore, chennai"
-    },
+    },	
     {
         number: "22587",
         name: "Sealdah – Banaras Amrit Bharat Express",
@@ -245,7 +243,7 @@ const amritBharatTrains = [
         inauguration: "18 January 2026",
         link: "trains/22588-banaras-sealdah-amrit-bharat-express.html",
         stations: "varanasi, deen dayal upadhyaya, gaya, dhanbad, asansol, durgapur, barddhaman, kolkata"
-    },
+    },		
     {
         number: "16597",
         name: "SMVT Bengaluru – Alipurduar Amrit Bharat Express",
@@ -260,6 +258,9 @@ const amritBharatTrains = [
         link: "trains/16598-alipurduar-smvt-bengaluru-amrit-bharat-express.html",
         stations: "new jalpaiguri, malda town, kharagpur, cuttack, bhubaneswar, visakhapatnam, vijayawada, renigunta, katpadi, jolarpettai, bengaluru"
     },
+	
+/*
+	
     {
         number: "20603",
         name: "New Jalpaiguri - Nagercoil Amrit Bharat Express",
