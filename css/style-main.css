@@ -118,3 +118,17 @@
         box-sizing: border-box;
       }
     }
+
+.site-footer {
+  background: #1e293b;
+  color: #f8fafc;
+  padding: 24px 16px;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.site-footer a {
+  color: #93c5fd;
+  margin: 0 8px;
+}
